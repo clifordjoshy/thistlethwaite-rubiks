@@ -1,5 +1,6 @@
 #include<array>
 #include<vector>
+#include<cstdint>
 
 typedef std::array<uint_fast32_t, 6> FaceArray;
 
